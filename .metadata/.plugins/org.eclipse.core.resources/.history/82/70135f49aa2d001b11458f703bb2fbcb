@@ -1,0 +1,13 @@
+package br.edu.univas.main;
+
+import br.edu.univas.vo.Internet;
+
+public class StartApp {
+
+	public static void main(String[] args) {
+		
+		Internet internet = new Internet();
+
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;NormalProject&apos; to &apos;ProjectNoProxy&apos;" description="Rename resource &apos;NormalProject&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/NormalProject" name="ProjectNoProxy" stamp="1606147811838" updateReferences="true"/>
+</session>

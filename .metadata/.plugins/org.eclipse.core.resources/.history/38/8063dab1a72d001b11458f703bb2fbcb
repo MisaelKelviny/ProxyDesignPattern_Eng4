@@ -1,0 +1,13 @@
+package br.edu.univas.vo;
+
+import br.edu.univas.interfaces.Internet;
+
+public class InternetClass implements Internet{
+
+	@Override
+	public void connectTo(String hosting) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
