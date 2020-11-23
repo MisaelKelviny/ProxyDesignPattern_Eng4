@@ -8,6 +8,8 @@ The Proxy standard suggests that you create a new proxy class with the same inte
 Then you update your application so that it passes the proxy object to all clients of the original object. Upon receiving a request from a client, 
 the proxy creates an actual service object and delegates all the work to it.
 
+![Proxy Method_diagram](https://raw.github.com/MisaelKelviny/ProxyDesignPattern_Eng4/main/proxy.JPG)
+
 ### Advantages:
 - You can control the service object without customers knowing it.
 - You can manage the service object's lifecycle when customers don't care.
