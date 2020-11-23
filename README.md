@@ -1,4 +1,4 @@
-# Proxy Design - A design pattern odyssey <img align="left" src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="40"/>
+# Proxy Method - A design pattern odyssey <img align="left" src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="40"/>
 
 Proxy is a structural design pattern that allows you to provide a substitute or placeholder for another object. A proxy controls access to the 
 original object, allowing you to do something either before or after the request reaches the original object.
